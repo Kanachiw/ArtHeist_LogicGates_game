@@ -6,4 +6,4 @@ in the same file directory.
 4. Open the Discrete_finalproject_code.py file in a python
 Run the code and play the game on the console 
 5. I hope you have as much fun playing this game as we did making it! 
-6. I hope you believe our game is worthy of extra credit:) 
+
